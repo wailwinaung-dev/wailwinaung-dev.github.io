@@ -41,6 +41,11 @@ $(document).ready(function(){
         $('#portfolio_modal').modal('show');
     });
 
+    
+
+    $('#portfolio_modal').on('show.bs.modal', function (event) {
+        $('#portfolio_modal').css('padding', '0 15px');
+      })
 });
 
 function portfolio_template(name){
