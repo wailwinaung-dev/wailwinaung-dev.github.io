@@ -205,6 +205,10 @@ function portfolio_template(name) {
                         <li>Node-RED</li>
                         <li>Redux</li>
                         <li>MongoDB</li>
+                        <li>Redis Queue</li>
+                        <li>KeyCloak</li>
+                        <li>WSO2 API Manager</li>
+                        <li>ElasticSearch</li>
                     </ul>
                 </div>
                 <h5>Responsibilities</h5>
@@ -233,6 +237,7 @@ function portfolio_template(name) {
                         <li>Redux Saga</li>
                         <li>Node-RED</li>
                         <li>MongoDB</li>
+
                     </ul>
                 </div>
                 <h5>Responsibilities</h5>
@@ -286,6 +291,7 @@ function portfolio_template(name) {
                     <ul>
                         <li>React Native</li>
                         <li>Redux Saga</li>
+                        <li>Redux Toolkit</li>
                         <li>Firebase</li>
                     </ul>
                 </div>
@@ -293,7 +299,9 @@ function portfolio_template(name) {
                 <p> - Bug Fixed and new features</p>
                 <h5>Company</h5>
                 <p> - Young Investment Group Co., Ltd</p>
-                <p> - Download Links: <a href="https://play.google.com/store/apps/details?id=com.burma.unipay2" class="text-info">Google Play Store</a></p>
+                <p> - Download Links: <a href="https://play.google.com/store/apps/details?id=com.burma.unipay2" class="text-info">Subscriber App - Google Play Store</a></p>
+                <p> - Download Links: <a href="https://play.google.com/store/apps/details?id=com.unipaymm.merchant" class="text-info">Merchant App - Google Play Store</a></p>
+                <p> - Download Links: <a href="https://play.google.com/store/apps/details?id=com.unipaymm.agent" class="text-info">Cash Counter App - Google Play Store</a></p>
             </div>
         </div>
         `
