@@ -173,7 +173,7 @@ function portfolio_template(name) {
                 <div>
                     <ul>
                         <li>CakePHP 4, REST API</li>
-                        <li>Ionic React</li>
+                        <li>Ionic React(Typescript)</li>
                         <li>Redux Toolkit</li>
                         <li>Redux</li>
                         <li>MySQL</li>
